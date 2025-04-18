@@ -2,6 +2,8 @@
 
 A simple program that mimics "apt-mark showmanual" or Gentoo's selected set.
 
+Tested on Ubuntu 24.04 and Debian 12
+
 ## How to Install
 
 ```sh
