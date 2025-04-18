@@ -1,9 +1,3 @@
-TODO
-
-- write instructions and description in readme
-- push to github
-- respond to email and send them a link to github repo
-
 # DPKG-STATUS-EXPLICIT
 
 A simple program that mimics "apt-mark showmanual" or Gentoo's selected set.
