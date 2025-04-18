@@ -1,0 +1,5 @@
+Package: dpkg-status-explicit
+Version: 1.0
+Architecture: all
+Maintainer: Chase Clark <chase_clark07@hotmail.com>
+Description: List explicitly installed Debian packages
