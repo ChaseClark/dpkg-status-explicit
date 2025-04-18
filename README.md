@@ -5,9 +5,9 @@ A simple program that mimics "apt-mark showmanual" or Gentoo's selected set.
 ## How to Install
 
 ```sh
-git clone ''
+git clone https://github.com/ChaseClark/dpkg-status-explicit.git
 cd dpkg-status-explicit
-sudo dpkg -i dpkg-status-explicit
+sudo dpkg -i dpkg-status-explicit.deb
 ```
 
 ## How to Run
@@ -21,7 +21,6 @@ dpkg-status-explicit
 Compare results with "apt-mark showmanual":
 
 ```sh
-chmod +x test.sh
 ./test.sh
 ```
 
