@@ -1,5 +1,7 @@
 # DPKG-STATUS-EXPLICIT
 
+## Not meant for actual use
+
 A simple program that mimics "apt-mark showmanual" or Gentoo's selected set.
 
 Tested on Ubuntu 24.04 and Debian 12
